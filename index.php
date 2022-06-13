@@ -37,7 +37,7 @@ if(!$ok){
 #-----------------------------#
 
 $token         = "1723601887:AAHJUn77d4kivfQsNYKXCJzD5oYGqEGNH5Q"; # توکن ربات
-$api_url       = "https://cinamagr.herokuapp.com/Api.php"; # آدرس فایل api.php
+$api_url       = "https://cinemagr.herokuapp.com/Api.php"; # آدرس فایل api.php
 
 #-----------------------------#
 
